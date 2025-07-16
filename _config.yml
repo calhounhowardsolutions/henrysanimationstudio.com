@@ -54,7 +54,7 @@ address:
   - line: Oak Bluffs, Massachusetts 02557
 
 # Credits content
-credits: "This is a website for Henry's Animation Studio"
+credits: "Web design by calhoward.com"
 
 # Build settings
 markdown: kramdown
